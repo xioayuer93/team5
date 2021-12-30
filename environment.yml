@@ -1,0 +1,15 @@
+name: panel
+channels:
+  - bioconda
+  - conda-forge
+  - r
+  - defaults
+  - pyviz
+dependencies:
+  - python=3
+  - hvplot
+  - jupyter
+  - notebook
+  - seaborn
+  - jupyter-panel-proxy
+prefix: D:/ProgramData/Anaconda3/envs/panel
